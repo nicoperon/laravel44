@@ -1,0 +1,9 @@
+@include('layouts.head')
+@include('layouts.header')
+@include('layouts.sidebar')
+@include('layouts.body')
+@include('layouts.footer')
+@include('layouts.asideright')
+@include('layouts.cury')
+</body>
+</html>
